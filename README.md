@@ -39,5 +39,4 @@ If you find the code useful in your research or wish to cite it, please use the 
   year={2021},
   publisher={Multidisciplinary Digital Publishing Institute}
 }
-}
 ```
