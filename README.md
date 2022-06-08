@@ -19,7 +19,7 @@ install requirements:
 pip install -r requirements.txt
 ```
 
-## Training the adversarial models
+## Training the policy
 
 
 For training the model, run `train_ddpg.py`.
