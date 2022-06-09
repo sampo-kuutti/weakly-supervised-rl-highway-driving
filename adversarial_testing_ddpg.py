@@ -868,7 +868,6 @@ if __name__ == "__main__":
         with a2c_graph.as_default():
             saver = tf.train.Saver()
             tf.global_variables_initializer().run()
-    #sess.run(tf.global_variables_initializer())
 
             # merge tensorboard summaries
             merged = tf.summary.merge_all()

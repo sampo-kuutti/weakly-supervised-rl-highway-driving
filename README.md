@@ -11,7 +11,7 @@ Testing can be completed with the IPG CarMaker Simulator, or with adversarial RL
 Clone the repo
 
 ```bash
-git clone https://github.com/sampo-kuutti/weakly-supervised-rl-highway-driving/.git
+git clone https://github.com/sampo-kuutti/weakly-supervised-rl-highway-driving
 ```
 
 install requirements:
